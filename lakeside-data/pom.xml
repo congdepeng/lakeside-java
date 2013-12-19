@@ -27,5 +27,6 @@
   	<module>lakeside-data-berkeleydb</module>
   	<module>lakeside-data-redis</module>
   	<module>lakeside-data-ssh</module>
+  	<module>lakeside-data-sqlite</module>
   </modules>
 </project>
